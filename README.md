@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fidafareesha
-- 👀 I’m interested in Programming, Machine learning and Artificial Intelligence
-- 🌱 I’m currently learning Machine learning and Artificial Intelligence
-- 💞️ I’m looking to collaborate on some exciting projects related to machinne learning and Artificial Intelligence
+- 👀 I’m interested in Backend Programming, Computer Networks, Machine learning and Artificial Intelligence
+- 🌱 I’m currently learning Computer Networks Security
+- 💞️ I’m looking to collaborate on some exciting projects related to Network Security
 - 📫 You can email me at fareeshafida@gmail.com for collaborations on Projects
 
 <!---
